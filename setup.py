@@ -45,8 +45,8 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/pyrogram",
     download_url="https://github.com/pyrogram/pyrogram/releases/latest",
-    author="Dan",
-    author_email="dan@pyrogram.org",
+    author="Kahn",
+    author_email="-",
     license="LGPLv3",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
